@@ -29,9 +29,6 @@ This project provides decentralized mode of cryptocurrency exchange where the tr
 ![2022-05-26 (31)](https://user-images.githubusercontent.com/61384878/171224624-5f1101e2-f3fd-4ebb-9fb2-586125a9a096.png)
 
 
-![2022-05-26 (32)](https://user-images.githubusercontent.com/61384878/171225132-dd5beb1c-626a-4714-9561-17ddd4a0bfb3.png)
-
-
 ![2022-05-26 (33)](https://user-images.githubusercontent.com/61384878/171225178-2a4b8b2c-22a5-4363-8688-a10daf823a65.png)
 
 
